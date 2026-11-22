@@ -1,4 +1,4 @@
-// Copyright (c) 2026 MiraNova Studios
+// Copyright (c) 2026 MiraNova Studio
 import * as vscode from 'vscode';
 
 const HEADING_REGEX = /^(#{1,6})\s+(.+)$/;

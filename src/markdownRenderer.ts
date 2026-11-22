@@ -1,4 +1,4 @@
-// Copyright (c) 2026 MiraNova Studios
+// Copyright (c) 2026 MiraNova Studio
 import MarkdownIt from 'markdown-it';
 import Prism from 'prismjs';
 import loadLanguages from 'prismjs/components/index.js';

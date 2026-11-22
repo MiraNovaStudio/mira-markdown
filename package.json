@@ -1,9 +1,10 @@
 {
   "name": "mira-markdown",
-  "displayName": "Mira Markdown",
+  "displayName": "MiraNova Studio",
   "description": "Single-pane Markdown preview with code block syntax highlighting.",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "publisher": "miranovastudios",
+  "author": "MiraNova Studio",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -36,12 +37,12 @@
     "commands": [
       {
         "command": "miraMarkdown.showPreview",
-        "title": "MiraMarkDown: Show Preview",
+        "title": "MiraNova Studio: Show Preview",
         "icon": "$(explorer-view-icon)"
       },
       {
         "command": "miraMarkdown.closePreview",
-        "title": "MiraMarkDown: Close Preview",
+        "title": "MiraNova Studio: Close Preview",
         "icon": "$(close)"
       }
     ],

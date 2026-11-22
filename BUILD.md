@@ -31,13 +31,13 @@ This compiles TypeScript and packages the extension into `mira-markdown-<version
 ## Install Locally
 
 ```bash
-code --install-extension mira-markdown-0.1.1.vsix
+code --install-extension mira-markdown-0.5.4.vsix
 ```
 
 For Cursor:
 
 ```bash
-cursor --install-extension mira-markdown-0.1.1.vsix
+cursor --install-extension mira-markdown-0.5.4.vsix
 ```
 
 ## Packaging Details
