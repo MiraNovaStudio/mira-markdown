@@ -1,14 +1,14 @@
 {
-  "name": "mira-markdown",
+  "name": "miranova-markdown",
   "displayName": "MiraNova Markdown",
   "description": "Single-pane Markdown preview with code block syntax highlighting.",
   "version": "0.5.5",
-  "publisher": "miranovastudios",
+  "publisher": "miranovastudio",
   "author": "MiraNova Studio",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aeonath4/mira-markdown"
+    "url": "https://github.com/MiraNovaStudio/miranova-markdown"
   },
   "engines": {
     "vscode": "^1.85.0"

@@ -17,7 +17,7 @@ npm install
 npm run build
 ```
 
-This compiles TypeScript and packages the extension into `mira-markdown-<version>.vsix`.
+This compiles TypeScript and packages the extension into `miranova-markdown-<version>.vsix`.
 
 ## Other Scripts
 
@@ -31,13 +31,13 @@ This compiles TypeScript and packages the extension into `mira-markdown-<version
 ## Install Locally
 
 ```bash
-code --install-extension mira-markdown-0.5.5.vsix
+code --install-extension miranova-markdown-0.5.5.vsix
 ```
 
 For Cursor:
 
 ```bash
-cursor --install-extension mira-markdown-0.5.5.vsix
+cursor --install-extension miranova-markdown-0.5.5.vsix
 ```
 
 ## Packaging Details
