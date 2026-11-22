@@ -1,4 +1,4 @@
-# Mira Markdown
+# MiraNova Markdown
 
 A markdown extension for VS Code and Cursor with enhanced heading decorations, syntax highlighting in the preview with Prism.js, lyric fence support, and support for output blocks.
 
@@ -46,7 +46,7 @@ Headings are visually distinct in source mode with bold styling and scaled font 
 
 ### No Split Pane
 
-The built-in side-by-side markdown preview is intentionally disabled. Mira Markdown opens the preview as a separate tab so you can focus on one view at a time - either source or preview, not both competing for screen space.
+The built-in side-by-side markdown preview is intentionally disabled. MiraNova Markdown opens the preview as a separate tab so you can focus on one view at a time - either source or preview, not both competing for screen space.
 
 ### No Sticky Scroll
 
@@ -56,8 +56,8 @@ This is also disabled for markdown files.
 
 | Command | Description |
 |---------|-------------|
-| `MiraMarkDown: Show Preview` | Open rendered preview |
-| `MiraMarkDown: Close Preview` | Close preview and return to source |
+| `MiraNova Markdown: Show Preview` | Open rendered preview |
+| `MiraNova Markdown: Close Preview` | Close preview and return to source |
 
 ## Requirements
 
