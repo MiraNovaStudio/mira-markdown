@@ -1,8 +1,8 @@
 {
   "name": "mira-markdown",
-  "displayName": "MiraNova Studio",
+  "displayName": "Mira Markdown",
   "description": "Single-pane Markdown preview with code block syntax highlighting.",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "publisher": "miranovastudios",
   "author": "MiraNova Studio",
   "icon": "icon.png",
@@ -37,12 +37,12 @@
     "commands": [
       {
         "command": "miraMarkdown.showPreview",
-        "title": "MiraNova Studio: Show Preview",
+        "title": "MiraMarkDown: Show Preview",
         "icon": "$(explorer-view-icon)"
       },
       {
         "command": "miraMarkdown.closePreview",
-        "title": "MiraNova Studio: Close Preview",
+        "title": "MiraMarkDown: Close Preview",
         "icon": "$(close)"
       }
     ],
@@ -87,7 +87,7 @@
     "@types/node": "^25.2.3",
     "@types/prismjs": "^1.26.6",
     "@types/vscode": "^1.85.0",
-    "@vscode/vsce": "^3.7.1",
+    "@vscode/vsce": "^4.1.1",
     "typescript": "^5.7.0"
   },
   "dependencies": {
@@ -95,6 +95,3 @@
     "prismjs": "^1.30.0"
   }
 }
-
-
-
